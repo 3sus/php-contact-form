@@ -1,10 +1,10 @@
-# PHP Simple Form
+# PHP Contact Form
 
-A basic PHP form example demonstrating how to create an HTML form and handle form submissions securely using PHP.
+A basic PHP contact form example demonstrating how to create an HTML form and handle form submissions securely using PHP.
 
 ## Features
 
-- Simple form with **Name** and **Email** fields
+- Simple contact form with **Name** and **Email** fields
 - Basic form validation (required fields)
 - PHP script to process form data and sanitize inputs to prevent XSS
 - Easy to understand and extend for beginners
@@ -25,7 +25,7 @@ A basic PHP form example demonstrating how to create an HTML form and handle for
 
 ## File Structure
 
-- `form.html` — The HTML form for user input.
+- `form.html` — The HTML contact form for user input.
 - `process.php` — PHP script to handle form submission and display sanitized input.
 
 ## Security
